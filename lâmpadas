@@ -1,0 +1,11 @@
+Primeira ida à sala das lâmpadas:
+
+Ligue um dos interruptores e deixe-o ligado por alguns minutos.
+Desligue o interruptor.
+Segunda ida à sala das lâmpadas:
+
+Ligue outro interruptor e vá para a sala das lâmpadas.
+Agora, você tem três situações possíveis:
+Se a lâmpada estiver acesa, o interruptor que você acabou de ligar controla essa lâmpada.
+Se a lâmpada estiver apagada e sentir o calor dela (se estiver acesa, mas você desligou o interruptor), o interruptor que você ligou na primeira vez controla essa lâmpada.
+Se a lâmpada estiver apagada e fria, então o interruptor que você não tocou controla essa lâmpada.
